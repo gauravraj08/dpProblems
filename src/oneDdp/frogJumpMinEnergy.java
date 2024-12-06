@@ -1,3 +1,5 @@
+package oneDdp;
+
 import java.util.Arrays;
 
 public class frogJumpMinEnergy {
